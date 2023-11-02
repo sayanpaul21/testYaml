@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: LogicApps
+metadata:
+  name: example-LogicApps
+spec:
+  type: logicApps
+  lifecycle: experimental
+  owner: guests
