@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: LogicApps
+kind: Customer
 metadata:
   name: example-LogicApps
 spec:
