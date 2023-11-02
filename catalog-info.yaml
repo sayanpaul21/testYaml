@@ -1,8 +1,6 @@
 apiVersion: myexample.com/v1beta3
 kind: Customer
 metadata:
-  name: example-LogicApps
+  name: test-customer
 spec:
-  type: logicApps
-  lifecycle: experimental
   owner: guests
